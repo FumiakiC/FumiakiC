@@ -4,21 +4,21 @@
 
 <div align="center">
 
-  ### 👋 Welcome to my digital hideout.
+  ### 👋 Welcome to the digital hideout
 
-  I stare into the **network abyss** and fight the darkness of **web development**.
-  My primary fuel source is caffeine, and I spend my weekends legally breaking into systems (I swear it's **legal**).
+  I stare into the **network abyss** and fight the shadows of **web development**.
+  My primary fuel is caffeine, and on weekends I legally break into systems (legal, probably).
 
-  Currently stuck in the infinite loop of:
-  *"It doesn't work, why?"* ↔ *"It works, why?"*
+  Current status:
+  *"It doesn't work. Why?"* ↔ *"It works. Why?"*
 
   ---
-  
+
   <a href="https://tryhackme.com/p/Fumiaki">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Fumiaki.png" alt="TryHackMe Badge" />
   </a>
   <br>
-  <sub>👆 Check out my (legal) hacking logs here.</sub>
+  <sub>👆 My (legal) hacking logs live here.</sub>
 
 </div>
 
@@ -26,21 +26,21 @@
 
 ### ⚔️ My Arsenal (Tech Stack)
 
-These are the tools I use to save the world (or mostly just my local environment).
+Tools I use to save the world. Sometimes just my local environment.
 
 <div align="center">
 
   <br>
-  **💀 The "I swear it's for research" Tools (Security & Infra)**
+  **💀 The "for research" kit (Security & Infra)**
   <br><br>
   <img src="https://img.shields.io/badge/Kali_Linux-Here%20be%20dragons-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-Works%20on%20my%20machine-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-Too%20much%20YAML-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Yamaha_RTX-Expensive%20Toy-4B0082?style=for-the-badge&logo=router&logoColor=white" />
-  
+
   <br><br>
-  
-  **🧙‍♂️ Magic Spells (Dev Languages)**
+
+  **🧙‍♂️ Magic Circles (Dev Languages)**
   <br><br>
   <img src="https://img.shields.io/badge/TypeScript-Microsoft%20Java-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-React%20on%20steroids-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -51,13 +51,13 @@ These are the tools I use to save the world (or mostly just my local environment
 
 <br />
 
-### 📉 My Combat Power (GitHub Stats)
+### 📉 Combat Power (GitHub Stats)
 
-*If this graph is broken, GitHub's servers couldn't handle my commit history.*
+*If the graph is broken, GitHub couldn't handle my commit history.*
 
 <div align="center">
-  <img alt="FumiakiC's Stats" src="https://github-readme-stats.vercel.app/api?username=FumiakiC&show_icons=true&theme=radical&count_private=true&hide_title=true" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FumiakiC&layout=compact&theme=radical&hide=html,css&hide_title=true" />
+  <img alt="FumiakiC's Stats" src="https://github-readme-stats.vercel.app/api?username=FumiakiC&show_icons=true&theme=radical&hide_title=true&rank_icon=github" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FumiakiC&layout=compact&theme=radical&hide=html,css&hide_title=true&langs_count=8" />
 </div>
 
 <br />
@@ -66,16 +66,16 @@ These are the tools I use to save the world (or mostly just my local environment
 
 | Category | Project Name | Description (The Honest Truth) |
 | :--- | :--- | :--- |
-| **Web App** | **chumon-hub** | A "sophisticated" PDF parsing system that lazily dumps all the hard work onto the Gemini API. |
-| **Home Lab** | **Data Center at Home** | Enterprise-grade network (Yamaha & Ubiquiti). Result: Family complaints about Wi-Fi and a terrifying electricity bill. |
-| **Security** | **CTF / PenTest Logs** | Documenting my TryHackMe journey. Status: "I totally understand this" (Narrator: He did not). |
+| **Web App** | **chumon-hub** | A "sophisticated" PDF parsing device that quietly dumps the hard work on the Gemini API. |
+| **Home Lab** | **Data Center at Home** | Built with Yamaha & Ubiquiti. Results: family Wi-Fi complaints and a terrifying power bill. |
+| **Security** | **CTF / PenTest Logs** | TryHackMe adventures. Status: "I totally get it" (Narrator: he did not). |
 
 <br />
 
 <div align="center">
   ---
   <br>
-  <i>I am still trying to figure out how to exit Vim. Please send help.</i>
+  <i>Still learning how to exit Vim. Send help.</i>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=FumiakiC&label=PROFILE+VIEWS&color=00ff00&style=flat-square" alt="watchers" />
 </div>
