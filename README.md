@@ -51,17 +51,6 @@ Tools I use to save the world. Sometimes just my local environment.
 
 <br />
 
-### 📉 Combat Power (GitHub Stats)
-
-*If the graph is broken, GitHub couldn't handle my commit history.*
-
-<div align="center">
-  <img alt="FumiakiC's Stats" src="https://github-readme-stats.vercel.app/api?username=FumiakiC&show_icons=true&theme=radical&hide_title=true&rank_icon=github" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FumiakiC&layout=compact&theme=radical&hide=html,css&hide_title=true&langs_count=8" />
-</div>
-
-<br />
-
 ### 🧪 Dangerous Experiments (Projects & Labs)
 
 | Category | Project Name | Description (The Honest Truth) |
