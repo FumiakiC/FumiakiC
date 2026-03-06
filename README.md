@@ -15,7 +15,7 @@
   ---
 
   <a href="https://tryhackme.com/p/Fumiaki">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Fumiaki.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Fumiaki.png" alt="Your Image Badge" />
   </a>
   <br>
   <sub>👆 My (legal) hacking logs live here.</sub>
