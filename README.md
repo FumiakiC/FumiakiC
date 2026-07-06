@@ -40,8 +40,8 @@
 
 ## `> whoami --verbose`
 
-By day, I am a **mechanical design engineer** at a long-established manufacturer; at night and on weekends, I focus on **full-stack development** and **offensive security**.
-Using hands-on manufacturing domain knowledge to build and operate internal software end-to-end, I am steadily working toward **Manufacturing DX**.
+By day, I am a **mechanical design engineer** at a long-established manufacturer; at night and on weekends, I focus on **full-stack development** and **offensive security**. 
+My ultimate goal is to drive **Manufacturing DX** by leveraging my hands-on manufacturing domain knowledge to build and operate internal software end-to-end.
 
 > A mechanical design engineer who ships production software solo, then breaks into systems on weekends (legally\*). Currently escaping the drafting board toward **manufacturing DX** — one PR, one writeup, one over-engineered homelab at a time.
 
