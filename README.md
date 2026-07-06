@@ -18,13 +18,13 @@
 
 <!-- ============ SECTION: header (self-hosted animated SVG) ============ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg" />
-  <img src="./header-light.svg" alt="FumiakiC — mechanical design engineer crossing into full-stack and offensive security" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FumiakiC/FumiakiC/main/header-dark.svg" />
+  <img src="https://raw.githubusercontent.com/FumiakiC/FumiakiC/main/header-light.svg" alt="FumiakiC — mechanical design engineer crossing into full-stack and offensive security" width="100%" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./tagline-dark.svg" />
-  <img src="./tagline-light.svg" alt="breaking things to fix them (eventually)" width="720" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FumiakiC/FumiakiC/main/tagline-dark.svg" />
+  <img src="https://raw.githubusercontent.com/FumiakiC/FumiakiC/main/tagline-light.svg" alt="breaking things to fix them (eventually)" width="720" />
 </picture>
 
 <br/>
@@ -165,11 +165,11 @@ No open ports — everything rides a Cloudflare Tunnel, and Access restricts it 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#10161a','primaryTextColor':'#cfe8df','primaryBorderColor':'#00b473','lineColor':'#4da3ff','fontFamily':'monospace'}}}%%
 flowchart LR
-  A["🏭 Mechanical Design / CAD<br/>Mechanical Design"]:::hw --> P{"transition<br/>pivot"}:::pivot
+  A["🏭 Mechanical Design"]:::hw --> P{"transition<br/>pivot"}:::pivot
   P --> B["💻 Full-Stack<br/>Next.js · TypeScript"]:::sw
   P --> C["💀 Offensive Security<br/>TryHackMe · recon"]:::sec
   P --> D["🌐 Infra / Homelab<br/>k8s · Yamaha RTX"]:::infra
-  B --> Z["🚀 Manufacturing DX<br/>Manufacturing DX"]:::goal
+  B --> Z["🚀 Manufacturing DX"]:::goal
   C --> Z
   D --> Z
   classDef hw fill:#10161a,stroke:#ffb454,color:#cfe8df;
