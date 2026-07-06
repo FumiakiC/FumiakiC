@@ -188,12 +188,12 @@ flowchart LR
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FumiakiC&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0e0f&title_color=00ff9c&text_color=cfe8df&icon_color=4da3ff&ring_color=00ff9c" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FumiakiC&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=f6f8f5&title_color=007a4d&text_color=25332d&icon_color=1f6fd1&ring_color=007a4d" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=FumiakiC&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0e0f&title_color=00ff9c&text_color=cfe8df&icon_color=4da3ff&ring_color=00ff9c" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FumiakiC&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=f6f8f5&title_color=007a4d&text_color=25332d&icon_color=1f6fd1&ring_color=007a4d" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FumiakiC&layout=compact&hide_border=true&langs_count=8&bg_color=0a0e0f&title_color=00ff9c&text_color=cfe8df" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FumiakiC&layout=compact&hide_border=true&langs_count=8&bg_color=f6f8f5&title_color=007a4d&text_color=25332d" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FumiakiC&layout=compact&hide_border=true&langs_count=8&bg_color=0a0e0f&title_color=00ff9c&text_color=cfe8df" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FumiakiC&layout=compact&hide_border=true&langs_count=8&bg_color=f6f8f5&title_color=007a4d&text_color=25332d" alt="Top languages" />
 </picture>
 
 <br/>
