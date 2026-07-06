@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 42" width="720" height="42" role="img" aria-labelledby="tglTitle">
+  <title id="tglTitle">$ breaking things to fix them (eventually)</title>
+  <style>
+    svg{--fg:#007a4d}
+    text{font-family:ui-monospace,"Cascadia Code","SF Mono",Menlo,Consolas,monospace;font-size:17px;font-weight:600;fill:var(--fg)}
+    /* 4 lines x 3.5s = 14s cycle; each visible 25% with soft cross-fade */
+    @keyframes cyc{0%{opacity:0}3%,22%{opacity:1}25%,100%{opacity:0}}
+    .t{opacity:0;animation:cyc 14s linear infinite}
+    .t1{animation-delay:3.5s}.t2{animation-delay:7s}.t3{animation-delay:10.5s}
+    @media (prefers-reduced-motion:reduce){
+      .t{animation:none}.t0{opacity:1}
+    }
+  </style>
+  <text class="t t0" x="360" y="27" text-anchor="middle">$ breaking things to fix them (eventually)</text>
+  <text class="t t1" x="360" y="27" text-anchor="middle">$ it works. why?  //  it doesn't work. why?</text>
+  <text class="t t2" x="360" y="27" text-anchor="middle">$ sudo make me a coffee   [sudo] password:</text>
+  <text class="t t3" x="360" y="27" text-anchor="middle">$ still learning how to exit vim... send help</text>
+</svg>
