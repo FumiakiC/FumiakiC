@@ -31,7 +31,7 @@
 
 <a href="https://tryhackme.com/p/Fumiaki"><img src="https://img.shields.io/badge/TryHackMe-daily%20grind-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 <a href="https://qiita.com/FumiakiC"><img src="https://img.shields.io/badge/Qiita-@FumiakiC-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" /></a>
-<img src="https://img.shields.io/badge/base-Gunma,%20JP-1f6fd1?style=flat-square&logo=googlemaps&logoColor=white" alt="location" />
+<img src="https://img.shields.io/badge/base-JAPAN-1f6fd1?style=flat-square&logo=googlemaps&logoColor=white" alt="location" />
 <img src="https://komarev.com/ghpvc/?username=FumiakiC&label=visitors&color=00b473&style=flat-square" alt="profile views" />
 
 </div>
